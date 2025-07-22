@@ -15,31 +15,31 @@ Project consists of a simple SQL that goes through the data to clean it.  The da
 
 <p align="center">
 <b>The Power BI Dashboard that is created at the End: <br/>
-<img src="https://i.imgur.com/tX0O6Aa.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/OW4EJuw.png" height="80%" width="80%" />
 <br />
   
 <br />Steps taken to Clean Data :  <br/>
-<img src="https://i.imgur.com/CrCjP7d.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/OFizE0O.png" height="80%" width="80%" />
 <br />
 
 <br />
 Beginning of SQL Code used: <br/>
-<img src="https://i.imgur.com/9OF81kT.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/8NVY1jG.png" height="80%" width="80%"/>
 <br />
 <br />
   <br/>
-<img src="https://i.imgur.com/tjuFMkv.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/RL0xof0.png" height="80%" width="80%"/>
 <br />
 <br />
   <br/>
-<img src="https://i.imgur.com/ySQJY5P.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/vhaPWPO.png" height="80%" width="80%" />
 <br />
 <br />
   <br/>
-<img src="https://i.imgur.com/xScEXyU.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/WNe2nAv.png" height="80%" width="80%" />
 </p>
   <br/>
-<img src="https://i.imgur.com/8j3lh42.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/gOalAtV.png" height="80%" width="80%" />
 </p>
 
 <!--
